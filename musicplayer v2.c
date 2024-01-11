@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <mmsystem.h>
  
-#define MAX_SONGS 50
+#define MAX_SONGS 500
 #define MAX_TITLE_LENGTH 100
 #define MAX_FILENAME_LENGTH 100
 #define MAX_LINE_LENGTH 256
